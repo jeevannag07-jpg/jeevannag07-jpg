@@ -2,13 +2,11 @@
 
 # Jeevan Nag
 
-### AI & Data Science Engineer
+**AI & Data Science Engineer**
 
-*Building intelligent systems. One day at a time.*
+Building software, exploring AI, and learning by doing.
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jeevannag07-jpg)
-[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/jeev_the_beast)
-[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jeevannag07@gmail.com)
+[GitHub](https://github.com/jeevannag07-jpg) · [Instagram](https://instagram.com/jeev_the_beast) · [Email](mailto:jeevannag07@gmail.com)
 
 </div>
 
@@ -16,64 +14,86 @@
 
 ## About
 
-I'm an **AI & Data Science engineering student from India**, focused on building software, exploring artificial intelligence and developing strong engineering fundamentals.
+I'm an AI & Data Science engineering student from India interested in **artificial intelligence, software engineering, and intelligent systems**.
 
-Currently working with:
+I enjoy taking an idea, turning it into a working project, and then going deeper to understand how it works.
 
-`Python` · `C` · `PyTorch` · `FastAPI` · `Git`
+**Currently exploring**
 
-My approach is simple:
-
-> **Learn → Build → Track → Improve**
+`Python` `C` `PyTorch` `FastAPI` `Machine Learning` `DSA`
 
 ---
 
-## Personal Dashboard
+## What I'm Working On
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| 📚 Learning | 💻 Coding |    🤖 AI    | 🏀 Fitness |
-| :---------: | :-------: | :---------: | :--------: |
-| Consistency |  Projects | Experiments | Discipline |
+### Javi
 
-</div>
+Personal AI assistant exploring intelligent interaction and AI-powered applications.
 
-### Current Focus
+**Python · AI · APIs**
 
-```text
-AI / ML                 █████████░░  80%
-Python                  ██████████░  90%
-Backend                 ███████░░░░  70%
-DSA                     █████░░░░░░  50%
-Deep Learning           ██████░░░░░  60%
-Linux                   ████░░░░░░░  40%
-```
+[View repository →](https://github.com/jeevannag07-jpg/javi-ai-assistant)
+
+</td>
+
+<td width="50%">
+
+### Personal Tracker
+
+A personal productivity system for tracking coding, college, fitness, sleep and daily progress.
+
+**Python · FastAPI · Backend**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### BestfriendAI
+
+Experimental conversational AI project exploring transformer architecture and deep learning.
+
+**PyTorch · Transformers**
+
+</td>
+
+<td width="50%">
+
+### Vendor Payment Chase
+
+Fintech SaaS dashboard concept focused on payment management and user experience.
+
+**Figma · UI/UX**
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔥 Streak Manager
+## Learning
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jeevannag07-jpg&theme=transparent&hide_border=true&ring=18181B&fire=18181B&currStreakLabel=18181B&sideLabels=52525B&dates=71717A" />
-
-</div>
-
-### My Rule
-
-**Never let a zero become two zeros.**
-
-Whether it's coding, learning or building — consistency compounds.
+| Area            | Currently                        |
+| --------------- | -------------------------------- |
+| **Programming** | Python · C · C++                 |
+| **AI / ML**     | Machine Learning · Deep Learning |
+| **Frameworks**  | PyTorch · FastAPI                |
+| **Foundations** | Data Structures & Algorithms     |
+| **Tools**       | Git · GitHub · Linux · VS Code   |
+| **Design**      | Figma                            |
 
 ---
 
-# 📊 GitHub Activity
+## Consistency
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeevannag07-jpg&show_icons=true&hide_border=true&theme=transparent&title_color=18181B&text_color=52525B&icon_color=18181B&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevannag07-jpg&layout=compact&hide_border=true&theme=transparent&title_color=18181B&text_color=52525B" height="170"/>
+<img src="https://streak-stats.demolab.com?user=jeevannag07-jpg&theme=transparent&hide_border=true" width="70%"/>
 
 </div>
 
@@ -81,147 +101,70 @@ Whether it's coding, learning or building — consistency compounds.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevannag07-jpg&bg_color=ffffff&color=18181B&line=18181B&point=18181B&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevannag07-jpg&bg_color=ffffff&color=24292f&line=24292f&point=24292f&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Tracker
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com?user=jeevannag07-jpg&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeevannag07-jpg&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
 
-</div>
-
-### Consistency > Intensity
-
-I track progress through:
-
-* `Daily coding`
-* `AI learning`
-* `Project development`
-* `DSA practice`
-* `GitHub contributions`
-
----
-
-# 🧠 Learning Tracker
-
-| Skill            |    Status    |
-| ---------------- | :----------: |
-| Python           | `██████████` |
-| C Programming    | `█████████░` |
-| Git & GitHub     | `█████████░` |
-| FastAPI          | `███████░░░` |
-| PyTorch          | `██████░░░░` |
-| Machine Learning | `██████░░░░` |
-| Deep Learning    | `█████░░░░░` |
-| DSA              | `████░░░░░░` |
-| Linux            | `███░░░░░░░` |
-
----
-
-# 🚀 Current Projects
-
-### Javi — Personal AI Assistant
-
-Personal AI assistant exploring intelligent interaction and AI-powered applications.
-
-`Python` · `AI` · `APIs`
-
-[View Project →](https://github.com/jeevannag07-jpg/javi-ai-assistant)
-
----
-
-### Personal Productivity Tracker
-
-A system for tracking college, coding, fitness, sleep and productivity.
-
-`Python` · `FastAPI` · `Backend`
-
----
-
-### BestfriendAI
-
-Experimental conversational AI exploring transformer architectures and deep learning.
-
-`PyTorch` · `Transformers`
-
----
-
-### Vendor Payment Chase
-
-Fintech SaaS dashboard concept focused on payment management and product design.
-
-`Figma` · `UI/UX`
-
----
-
-# 🎯 2026 Goals
-
-```text
-□ Strengthen Python
-□ Master DSA fundamentals
-□ Build serious AI projects
-□ Learn Machine Learning deeply
-□ Explore Deep Learning
-□ Improve GitHub consistency
-□ Build a strong AI portfolio
-□ Become a better engineer
-```
-
----
-
-# 📅 The System
-
-```text
-                    DAILY
-                      │
-          ┌───────────┴───────────┐
-          │                       │
-       LEARN                    BUILD
-          │                       │
-          ▼                       ▼
-      New Concept            Real Project
-          │                       │
-          └───────────┬───────────┘
-                      │
-                      ▼
-                   TRACK
-                      │
-                      ▼
-                  IMPROVE
-                      │
-                      └──────→ Repeat
-```
-
----
-
-# 🛠️ Technology
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,fastapi,flutter,git,github,vscode,figma,linux" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevannag07-jpg&layout=compact&hide_border=true&theme=transparent" height="160"/>
 
 </div>
 
 ---
 
-# Beyond Code
+## Current Focus
 
-🏀 **Basketball** — discipline & competition
-🎤 **Singing** — creativity & expression
-🤖 **AI** — curiosity & problem solving
+**01 — AI**
+
+Understanding machine learning and deep learning beyond simply using libraries.
+
+**02 — Engineering**
+
+Writing better code, understanding systems, and building useful applications.
+
+**03 — DSA**
+
+Strengthening problem-solving and algorithmic thinking.
+
+**04 — Projects**
+
+Turning what I learn into things people can actually use.
+
+---
+
+## Goals
+
+* Build production-quality AI projects
+* Become strong in Python and DSA
+* Develop a deeper understanding of ML and Deep Learning
+* Contribute consistently to GitHub
+* Build a portfolio that reflects real engineering ability
+
+---
+
+## Beyond Engineering
+
+**Basketball** · **Singing** · **AI**
+
+Different interests, same principle:
+
+**practice → improve → repeat**
 
 ---
 
 <div align="center">
 
-### Learn. Build. Track. Improve.
+### Thanks for stopping by.
 
-**Jeevan Nag · AI & Data Science · India**
+If you're interested in AI, software, or building things —
+
+**let's connect.**
 
 </div>
-
