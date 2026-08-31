@@ -1,95 +1,88 @@
 <div align="center">
 
-# Jeevan Nag
+# Hi 👋, I'm Jeevan
 
-**AI & Data Science Engineer**
+### AI Developer · AI & Data Science Student · Builder
 
-Building software, exploring AI, and learning by doing.
+**Turning ideas into code and learning something new every day.**
 
-[GitHub](https://github.com/jeevannag07-jpg) · [Instagram](https://instagram.com/jeev_the_beast) · [Email](mailto:jeevannag07@gmail.com)
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=jeevannag07-jpg\&label=Profile%20Views\&color=111827\&style=flat-square)](https://github.com/jeevannag07-jpg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jeevannag07-jpg)
+[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/jeev_the_beast)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-18181B?style=flat-square\&logo=leetcode\&logoColor=white)](YOUR_LEETCODE_URL)
+[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jeevannag07@gmail.com)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm an AI & Data Science engineering student from India interested in **artificial intelligence, software engineering, and intelligent systems**.
+I'm a passionate **AI developer from India** currently pursuing **AI & Data Science Engineering**.
 
-I enjoy taking an idea, turning it into a working project, and then going deeper to understand how it works.
+I enjoy working with technology, learning how things work under the hood, and turning concepts into practical projects.
 
-**Currently exploring**
-
-`Python` `C` `PyTorch` `FastAPI` `Machine Learning` `DSA`
+* 🔭 Currently working on **AI fundamentals and programming**
+* 🌱 Currently learning **Python libraries and AI technologies**
+* 💬 Comfortable with **Python and C programming**
+* 🧩 Practicing problem solving with **LeetCode**
+* 🏀 Part-time **basketball player**
+* 🎤 Passionate **singer**
 
 ---
 
 ## What I'm Working On
 
-<table>
-<tr>
-<td width="50%">
+### 🤖 Basics of AI
 
-### Javi
+Currently strengthening my foundations in artificial intelligence and programming through practical experimentation.
 
-Personal AI assistant exploring intelligent interaction and AI-powered applications.
-
-**Python · AI · APIs**
-
-[View repository →](https://github.com/jeevannag07-jpg/javi-ai-assistant)
-
-</td>
-
-<td width="50%">
-
-### Personal Tracker
-
-A personal productivity system for tracking coding, college, fitness, sleep and daily progress.
-
-**Python · FastAPI · Backend**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### BestfriendAI
-
-Experimental conversational AI project exploring transformer architecture and deep learning.
-
-**PyTorch · Transformers**
-
-</td>
-
-<td width="50%">
-
-### Vendor Payment Chase
-
-Fintech SaaS dashboard concept focused on payment management and user experience.
-
-**Figma · UI/UX**
-
-</td>
-</tr>
-</table>
+**Repository:**
+[My Practice Programs →](https://github.com/jeevannag07-jpg/My-Practice-programs)
 
 ---
 
-## Learning
+## 🧰 Languages & Tools
 
-| Area            | Currently                        |
-| --------------- | -------------------------------- |
-| **Programming** | Python · C · C++                 |
-| **AI / ML**     | Machine Learning · Deep Learning |
-| **Frameworks**  | PyTorch · FastAPI                |
-| **Foundations** | Data Structures & Algorithms     |
-| **Tools**       | Git · GitHub · Linux · VS Code   |
-| **Design**      | Figma                            |
+<div align="left">
+
+<a href="https://www.cprogramming.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.w3schools.com/cpp/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.figma.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42" alt="Figma"/>
+</a>
+
+</div>
 
 ---
 
-## Consistency
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jeevannag07-jpg&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevannag07-jpg&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+</div>
 
 <div align="center">
 
@@ -97,7 +90,9 @@ Fintech SaaS dashboard concept focused on payment management and user experience
 
 </div>
 
-<br>
+---
+
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -107,64 +102,73 @@ Fintech SaaS dashboard concept focused on payment management and user experience
 
 ---
 
-## GitHub
+## 🧠 Problem Solving
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeevannag07-jpg&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-18181B?style=flat-square\&logo=leetcode\&logoColor=white)](YOUR_LEETCODE_URL)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevannag07-jpg&layout=compact&hide_border=true&theme=transparent" height="160"/>
+</div>
+
+I use problem solving to strengthen my **logic, algorithms and programming fundamentals** alongside my AI studies.
+
+---
+
+## 🎯 What I'm Working Towards
+
+My long-term goal is to become a strong **AI Engineer**, with a solid foundation in programming, mathematics, machine learning and software engineering.
+
+```text
+Programming
+     ↓
+Data Structures & Algorithms
+     ↓
+Machine Learning
+     ↓
+Deep Learning
+     ↓
+AI Engineering
+```
+
+I'm focused on making progress consistently rather than trying to learn everything at once.
+
+---
+
+## Beyond Technology
+
+### 🏀 Basketball
+
+A part of my life outside engineering — keeping competition, discipline and teamwork in the picture.
+
+### 🎤 Singing
+
+Another side of me that has nothing to do with code — and that's exactly why I enjoy it.
+
+---
+
+## Connect
+
+<div align="center">
+
+**I'm always open to interesting ideas, projects and conversations around technology.**
+
+<br>
+
+[GitHub](https://github.com/jeevannag07-jpg) ·
+[Instagram](https://instagram.com/jeev_the_beast) ·
+[LinkedIn](YOUR_LINKEDIN_URL) ·
+[LeetCode](YOUR_LEETCODE_URL) ·
+[Email](mailto:jeevannag07@gmail.com)
 
 </div>
 
 ---
 
-## Current Focus
-
-**01 — AI**
-
-Understanding machine learning and deep learning beyond simply using libraries.
-
-**02 — Engineering**
-
-Writing better code, understanding systems, and building useful applications.
-
-**03 — DSA**
-
-Strengthening problem-solving and algorithmic thinking.
-
-**04 — Projects**
-
-Turning what I learn into things people can actually use.
-
----
-
-## Goals
-
-* Build production-quality AI projects
-* Become strong in Python and DSA
-* Develop a deeper understanding of ML and Deep Learning
-* Contribute consistently to GitHub
-* Build a portfolio that reflects real engineering ability
-
----
-
-## Beyond Engineering
-
-**Basketball** · **Singing** · **AI**
-
-Different interests, same principle:
-
-**practice → improve → repeat**
-
----
-
 <div align="center">
 
-### Thanks for stopping by.
+### Keep learning. Keep building.
 
-If you're interested in AI, software, or building things —
-
-**let's connect.**
+**Jeevan Nag**
 
 </div>
+
