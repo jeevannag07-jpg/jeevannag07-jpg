@@ -1,141 +1,74 @@
 <div align="center">
 
-# Jeevan Nag
+# Hi 👋, I'm Jeevan Nag
 
-### AI & Data Science Engineer
+### Developer • AI & Data Science Student
 
-**Building. Learning. Improving.**
-
-I am an AI & Data Science engineering student focused on
-software development, artificial intelligence and problem solving.
+I enjoy building useful things, solving problems, and turning ideas into working software.
 
 <br>
 
 <a href="https://github.com/jeevannag07-jpg">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://instagram.com/jeev_the_beast">
-<img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/u/jeevannag/">
-<img src="https://img.shields.io/badge/LeetCode-18181B?style=flat-square&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/LeetCode-18181B?style=flat-square&logo=leetcode&logoColor=FFA116"/>
 </a>
-
+&nbsp;
 <a href="mailto:jeevannag07@gmail.com">
-<img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=jeevannag07-jpg&label=PROFILE%20VIEWS&color=18181B&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=jeevannag07-jpg&label=PROFILE%20VIEWS&color=18181B&style=flat-square"/>
 
 </div>
 
 ---
 
-## About
+## 👋 A Little About Me
 
-I'm an **AI & Data Science engineering student from India** building my foundation in software engineering and artificial intelligence.
+Hi, I'm **Jeevan**, an AI & Data Science engineering student from India.
 
-I learn primarily by **building things, experimenting with code and solving problems**.
+I'm a developer who enjoys **learning by building**. I like taking an idea, writing the first version, figuring out what doesn't work, and improving it step by step.
 
-### Currently learning
+I'm particularly interested in **Artificial Intelligence, software development and problem solving**, and I'm currently working toward becoming a strong AI engineer.
 
-- Python & programming fundamentals
-- Data Structures & Algorithms
-- Machine Learning fundamentals
-- Deep Learning
-- AI systems
-- Backend development
-- Problem solving with LeetCode
+Outside technology, you'll usually find me playing **basketball 🏀** or singing **🎤**.
 
 ---
 
-## What I've Built
-
-### 01 — Javi
-
-**Personal AI Assistant**
-
-A long-term project to build an emotion-aware personal AI assistant inspired by the idea of JARVIS.
-
-The project currently focuses on the **Year 1 foundation**, with a roadmap covering:
-
-`Python` → `Voice I/O` → `Command Handling` → `Emotion Awareness` → `Memory` → `Integration`
-
-**Status:** `Active · Year 1 Foundation`
-
-[View Javi →](https://github.com/jeevannag07-jpg/javi-ai-assistant)
-
----
-
-### 02 — My Practice Programs
-
-My programming practice repository where I'm building my fundamentals through hands-on implementation.
-
-Current areas include:
-
-`Data Structures` · `Functions` · `Lists` · `Loops` · `Mini Projects` · `Patterns` · `Sorting Algorithms`
-
-**Status:** `Learning in public`
-
-[View repository →](https://github.com/jeevannag07-jpg/My-Practice-programs)
-
----
-
-### 03 — Calm Tabs
-
-A web development project built with a Node.js / Express backend.
-
-**Stack:** `JavaScript` · `Node.js` · `Express`
-
-**Status:** `Project`
-
-[View repository →](https://github.com/jeevannag07-jpg/calm-tabs)
-
----
-
-## Technology
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,nodejs,express,git,github,vscode,figma,linux" />
-
-</div>
-
----
-
-## My Current Learning
+## 💻 What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### Programming
+### BUILD
 
-- Python
-- C
-- C++
-- JavaScript
-- Data Structures
-- Algorithms
-- Problem Solving
+I turn ideas into working projects and experiment with different technologies.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### AI & Engineering
+### LEARN
 
-- AI fundamentals
-- Machine Learning
-- Deep Learning
-- PyTorch
-- AI assistants
-- Backend development
-- APIs
+I strengthen my programming fundamentals while exploring AI and modern development.
+
+</td>
+
+<td width="33%" align="center">
+
+### SOLVE
+
+I practice programming and algorithms to improve my problem-solving skills.
 
 </td>
 </tr>
@@ -143,17 +76,92 @@ A web development project built with a Node.js / Express backend.
 
 ---
 
-## Learning Direction
+# 🚀 My Projects
+
+## 01 · Javi
+
+### Personal AI Assistant
+
+Javi is my long-term personal AI assistant project.
+
+I'm building it progressively while learning the foundations required to create an intelligent assistant.
+
+**Currently exploring:**
+
+`Python` · `AI` · `Voice I/O` · `Command Handling` · `Emotion Awareness` · `Memory`
+
+[**View Javi →**](https://github.com/jeevannag07-jpg/javi-ai-assistant)
+
+---
+
+## 02 · My Practice Programs
+
+### Programming Fundamentals
+
+My practice repository where I strengthen my programming fundamentals through hands-on implementation.
+
+It includes work with:
+
+`C` · `Python` · `Functions` · `Lists` · `Loops` · `Data Structures` · `Sorting` · `Patterns`
+
+[**View Repository →**](https://github.com/jeevannag07-jpg/My-Practice-programs)
+
+---
+
+## 03 · Calm Tabs
+
+### Web Development
+
+A web development project where I'm experimenting with backend and web technologies.
+
+**Technologies:**
+
+`JavaScript` · `Node.js` · `Express`
+
+[**View Project →**](https://github.com/jeevannag07-jpg/calm-tabs)
+
+---
+
+# 🧰 Technologies I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,nodejs,express,pytorch,git,github,vscode,figma,linux"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Area | Learning |
+|:---|:---|
+| **Programming** | Python · C · C++ |
+| **Problem Solving** | Data Structures · Algorithms · LeetCode |
+| **Artificial Intelligence** | AI Fundamentals · Machine Learning |
+| **Deep Learning** | PyTorch · Neural Networks |
+| **Development** | Backend · APIs · Node.js |
+| **Tools** | Git · GitHub · Linux |
+
+</div>
+
+---
+
+# 🧭 Where I'm Heading
+
+I'm building my skills step by step:
 
 ```text
-Programming Fundamentals
-          ↓
+Programming
+     ↓
+Problem Solving
+     ↓
 Data Structures & Algorithms
-          ↓
+     ↓
 Machine Learning
-          ↓
+     ↓
 Deep Learning
-          ↓
+     ↓
 AI Engineering
-          ↓
-Intelligent Systems
